@@ -9,7 +9,7 @@
   - partial rendering
 - Navigating Between Pages
   - prefetching
-  - usePathname
+  - usePathname()
 - Setting Up PostgreSQL database using @vercel/postgres
 - Data Fetching
   - network waterfalls
@@ -21,3 +21,14 @@
   - route groups
 - Partial Prerendering
   - combining static and dynamic content
+- Adding Search and Pagination
+  - searchParams vs useSearchParams(), useRouter()
+  - URLSearchParams
+  - Debouncing
+- Mutating Data
+  - Server Actions
+  - revalidatePath
+  - revalidateTag
+  - redirect
+- Handling Errors
+- Improving Accessibility
