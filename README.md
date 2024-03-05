@@ -32,3 +32,8 @@
   - redirect
 - Handling Errors
 - Improving Accessibility
+- Adding Authentication
+  - useFormStatus & useFormState
+  - next-auth
+  - zod
+  - bcrypt
