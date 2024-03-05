@@ -37,3 +37,4 @@
   - next-auth
   - zod
   - bcrypt
+- Adding Metadata
